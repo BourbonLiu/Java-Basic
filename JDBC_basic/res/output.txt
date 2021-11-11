@@ -1,0 +1,3 @@
+1002,Lily Lee,2008-03-22,34000,100,engineer,
+1007,David Ho,2009-09-11,39000,100,engineer,
+1008,Viginia Kuo,2000-05-16,55000,100,engineer,
